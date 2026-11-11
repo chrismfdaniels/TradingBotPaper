@@ -1,0 +1,4 @@
+yfinance==1.7.0
+alpaca-py==0.44.0
+python-dotenv==1.2.4
+pandas==3.1.0
